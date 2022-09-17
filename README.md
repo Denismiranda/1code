@@ -1,10 +1,10 @@
-# NLW sSports - Trilha Explorer
+# NLW eSports - Trilha Explorer
 
 ![preview](.github/preview.png)
 
 > Trilha Explorer
 
-Projeto construído do evento Next Level Week da Rocketseat.
+Projeto construído no evento Next Level Week da Rocketseat.
 
 [Clique aqui para acessar](https://denismiranda.github.io/1code/)
 
